@@ -19,7 +19,7 @@ We would like to extend this to a 3rd dimension in a z-axis for the *central ent
 
 While we don't have simulations of the helium white dwarfs yet, let's practise some data analysis of stellar evolution models made by MESA.
 
-Let's take a MESA model of a massive star during its most advanced burning phases of oxygen and silicon shell burning. (Aguilera-Dena et al. 2019)[https://ui.adsabs.harvard.edu/abs/2018ApJ...858..115A/abstract]
+Let's take a MESA model of a massive star during its most advanced burning phases of oxygen and silicon shell burning. [Aguilera-Dena et al. 2019](https://ui.adsabs.harvard.edu/abs/2018ApJ...858..115A/abstract)
 
 20mso_model.dat is the raw data file.
 
