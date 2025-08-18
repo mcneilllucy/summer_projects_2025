@@ -21,7 +21,7 @@ While we don't have simulations of the helium white dwarfs yet, let's practise s
 
 Let's take a MESA model of a massive star during its most advanced burning phases of oxygen and silicon shell burning. [Aguilera-Dena et al. 2019](https://ui.adsabs.harvard.edu/abs/2018ApJ...858..115A/abstract)
 
-20mso_model.dat is the raw data file.
+[20mso_model.dat](https://github.com/mcneilllucy/summer_projects_2025/blob/main/white-dwarf-mass-transfer/example_data/20mso_model.dat) is the raw data file.
 
 1. As a function of radius (in km), plot
   - the density (in g / cm^3)
