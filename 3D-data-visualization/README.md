@@ -2,7 +2,7 @@
 
 We want to use VR to visualise gravitational NBODY simulations of globular clusters (e.g. [Aarseth 2003](https://ui.adsabs.harvard.edu/abs/2003gnbs.book.....A/abstract), [Trenti and Hut 2008](https://arxiv.org/abs/0806.3950)) made with NBODY6.
 
-We take a simulation of a N = 200,000 globular cluster model from [de Vita, Trenti and MacLeod 2019](https://ui.adsabs.harvard.edu/abs/2019MNRAS.485.5752D/abstract). This model, can200k (for 'canonical') is one of a suite of around 20 simulations. The initial setup for can200k used standard assumptions about stellar evolution such as black hole and neutron star birth kicks. It has a metallicity of 0.002, where corresponding stellar wind prescriptions for the black hole progenitor stars consequently gives some specific black hole initial to final mass. 
+We take a simulation of a N = 200,000 globular cluster model from [de Vita, Trenti and MacLeod 2019](https://ui.adsabs.harvard.edu/abs/2019MNRAS.485.5752D/abstract). This model, can200k (for 'canonical') is one of a suite of around 20 simulations. The initial setup for can200k used standard assumptions about stellar evolution such as black hole and neutron star birth kicks. It has a metallicity of 0.002, where corresponding stellar wind prescriptions for the black hole progenitor stars consequently gives some specific black hole initial to final mass.
 
 ## Project overview
 
@@ -36,15 +36,6 @@ Summarise the time evolution of the black hole population e.g.
 - For any frame corresponding to a black hole merger or ejection, plot the velocity vector of the black hole merger remnant / binary in these frames.
 
 
-## Example scripts for data analysis
-
-- [ ] ipython notebook
-- [ ] .py script
-
-- Results
-  - [ ] .csv files for important events e.g. black hole ejections, exchanges
-
-
-# Grid data : 3D simulations of pre-supernova massive stars with spherical polar geometry using PROMETHEUS (HD) and CoCoNuT-FMT (MHD)
+# Grid based hydrodynamics solver data : 3D simulations of pre-supernova massive stars with spherical polar geometry using PROMETHEUS (HD) and CoCoNuT-FMT (MHD)
 
 To be added later.
