@@ -50,7 +50,7 @@ This star is a neutron star progenitor during oxygen shell burning. Convection i
 
 The following Figure is the absolve value of the radial velocity.
 
-[<img alt="alt_text" width="40px" src="{{ BASE_PATH }}/assets/images/convection-he3.png" />](https://www.google.com/)
+[<img alt="alt_text" width="40px" src="{{ BASE_PATH }}/assets/images/convection-he3.png" />](https://github.com/mcneilllucy/mcneilllucy.github.io/blob/master/assets/images/convection-he3.png)
 
 Taken in conjunction with the up and down motions, we can see maxima in the radial velocity in the carbon shell. These wave fronts appear to be second order oscillations.
 
