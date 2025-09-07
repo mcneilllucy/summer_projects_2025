@@ -1,2 +1,2 @@
-# Binary evolution models for black hole progenitors in binary stars
+# Modelling the spin up for black hole progenitors in binary star systems
 
